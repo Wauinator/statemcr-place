@@ -2,13 +2,13 @@
     "schematics": [
         {
             "name": "bogn",
-            "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/StateMC_partner.litematic",
+            "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/Bogn_331x200.schem",
             "type": "litematic",
             "x": 30,
             "y": 100,
             "z": -100,
             "autoload": true,
-            "size": 18259
+            "size": 18260
         }
     ],
     "version": 1
