@@ -4,7 +4,7 @@
             "name": "bogn",
             "url": "https://github.com/Onako2/juwa-schematics/raw/647b4f259b5a5fd13434cfc9244fd128af08e518/StateMC_partner.litematic",
             "type": "schem",
-            "x": 3,
+            "x": 30,
             "y": 100,
             "z": -100,
             "autoload": true,
