@@ -1,0 +1,15 @@
+{
+    "schematics": [
+        {
+            "name": "bogn",
+            "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/Bogn_331x200.schem",
+            "type": "schem",
+            "x": 2,
+            "y": 100,
+            "z": -100,
+            "autoload": true,
+            "size": 8643
+        }
+    ],
+    "version": 1
+}
