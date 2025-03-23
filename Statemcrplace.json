@@ -1,8 +1,8 @@
 {
     "schematics": [
         {
-            "name": "Statemnc",
-            "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/basti_off.litematic",
+            "name": "Statemc",
+            "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/Schweiz.litematic",
             "type": "litematic",
             "x": 30,
             "y": 100,
