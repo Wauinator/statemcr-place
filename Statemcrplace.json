@@ -2,8 +2,8 @@
     "schematics": [
         {
             "name": "Statemc",
-            "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/basti_off.litematic",
-            "type": "litematic",
+            "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/Bogn_331x200.schem",
+            "type": "schem",
             "x": 30,
             "y": 100,
             "z": -100,
