@@ -9,6 +9,16 @@
             "z": -100,
             "autoload": true,
             "size": 461
+        },
+        {
+            "name": "Statemc123",
+            "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/StateMC_partner.litematic",
+            "type": "litematic",
+            "x": 200,
+            "y": 150,
+            "z": -100,
+            "autoload": true,
+            "size": 18257
         }
     ],
     "version": 1
