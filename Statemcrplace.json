@@ -1,14 +1,14 @@
 {
     "schematics": [
         {
-            "name": "test",
-            "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/test.schem",
-            "type": "schem",
+            "name": "Statemnc",
+            "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/StateMC_partner.litematic",
+            "type": "litematic",
             "x": 30,
             "y": 100,
             "z": -100,
             "autoload": true,
-            "size": 18266
+            "size": 18267
         }
     ],
     "version": 1
