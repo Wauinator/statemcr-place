@@ -2,13 +2,13 @@
     "schematics": [
         {
             "name": "Statemc",
-            "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/Schweiz.litematic",
+            "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/test.schem",
             "type": "litematic",
             "x": 30,
             "y": 100,
             "z": -100,
             "autoload": true,
-            "size": 18269
+            "size": 18270
         }
     ],
     "version": 1
