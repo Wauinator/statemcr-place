@@ -1,7 +1,7 @@
 {
     "schematics": [
         {
-            "name": "test123",
+            "name": "test",
             "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/test.schem",
             "type": "schem",
             "x": 30,
@@ -11,7 +11,7 @@
             "size": 461
         },
         {
-            "name": "Statemc123",
+            "name": "Statemc",
             "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/StateMC_partner.litematic",
             "type": "litematic",
             "x": 200,
