@@ -1,14 +1,14 @@
 {
     "schematics": [
         {
-            "name": "statemc",
-            "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/StateMC_partner.litematic",
+            "name": "Statemc",
+            "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/basti_off.litematic",
             "type": "litematic",
             "x": 30,
             "y": 100,
             "z": -100,
             "autoload": true,
-            "size": 18264
+            "size": 18265
         }
     ],
     "version": 1
