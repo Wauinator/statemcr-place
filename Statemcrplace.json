@@ -1,14 +1,14 @@
 {
     "schematics": [
         {
-            "name": "Statemc",
+            "name": "test",
             "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/test.schem",
             "type": "schem",
             "x": 30,
             "y": 100,
             "z": -100,
             "autoload": true,
-            "size": 18265
+            "size": 18266
         }
     ],
     "version": 1
