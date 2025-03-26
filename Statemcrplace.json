@@ -3,7 +3,7 @@
         {
             "name": "test",
             "url": "https://github.com/Onako2/juwa-schematics/raw/refs/heads/main/StateMC_partner.litematic",
-            "type": "schem",
+            "type": "litematic",
             "x": 30,
             "y": 100,
             "z": -100,
