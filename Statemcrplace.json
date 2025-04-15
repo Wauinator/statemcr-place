@@ -2,13 +2,13 @@
     "schematics": [
         {
             "name": "Statemc",
-            "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/Statemc1.0.litematic",
+            "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/Statemc1.1.litematic",
             "type": "litematic",
             "x": -999,
             "y": -63,
             "z": 599,
             "autoload": true,
-            "size": 82833
+            "size": 83895
         }
     ],
     "version": 1
