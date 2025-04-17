@@ -9,6 +9,16 @@
             "z": 599,
             "autoload": true,
             "size": 86283
+        },
+        {
+            "name": "Grief",
+            "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/Pizzalandgrief.litematic",
+            "type": "litematic",
+            "x": -566,
+            "y": -63,
+            "z": -407,
+            "autoload": true,
+            "size": 86283
         }
     ],
     "version": 1
