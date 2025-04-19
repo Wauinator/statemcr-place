@@ -19,6 +19,16 @@
             "z": -407,
             "autoload": true,
             "size": 86283
+        },
+        {
+            "name": "Manuellsen",
+            "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/Manuellsen1.litematic",
+            "type": "litematic",
+            "x": -999,
+            "y": -63,
+            "z": 317,
+            "autoload": true,
+            "size": 86283
         }
     ],
     "version": 1
