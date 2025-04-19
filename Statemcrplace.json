@@ -29,6 +29,16 @@
             "z": 317,
             "autoload": true,
             "size": 86283
+        },
+        {
+            "name": "primeblock",
+            "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/Primeblox.litematic",
+            "type": "litematic",
+            "x": -885,
+            "y": -63,
+            "z": 107,
+            "autoload": true,
+            "size": 86283
         }
     ],
     "version": 1
