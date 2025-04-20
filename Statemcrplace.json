@@ -64,9 +64,9 @@
             "name": "Schweiz",
             "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/Schweiz2025fix.litematic",
             "type": "litematic",
-            "x": -599,
+            "x": -999,
             "y": -63,
-            "z": 782,
+            "z": 999,
             "autoload": true,
             "size": 86283
         }
