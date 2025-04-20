@@ -2,7 +2,7 @@
     "schematics": [
         {
             "name": "Statemc",
-            "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/Statemc1.17.litematic",
+            "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/Statemc1.18.litematic",
             "type": "litematic",
             "x": -999,
             "y": -63,
