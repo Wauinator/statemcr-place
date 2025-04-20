@@ -69,6 +69,16 @@
             "z": 999,
             "autoload": true,
             "size": 86283
+        },
+        {
+            "name": "Maskenklein",
+            "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/Masken_klein.litematic",
+            "type": "litematic",
+            "x": 63,
+            "y": -63,
+            "z": 125,
+            "autoload": true,
+            "size": 86283
         }
     ],
     "version": 1
