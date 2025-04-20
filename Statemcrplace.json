@@ -39,6 +39,16 @@
             "z": 107,
             "autoload": true,
             "size": 86283
+        },
+        {
+            "name": "Xavi",
+            "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/ixavitv.litematic",
+            "type": "litematic",
+            "x": -599,
+            "y": -63,
+            "z": 782,
+            "autoload": true,
+            "size": 86283
         }
     ],
     "version": 1
