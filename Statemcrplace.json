@@ -49,6 +49,26 @@
             "z": 782,
             "autoload": true,
             "size": 86283
+        },
+        {
+            "name": "Pride",
+            "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/OhnePistons.litematic",
+            "type": "litematic",
+            "x": 0,
+            "y": -63,
+            "z": 0,
+            "autoload": true,
+            "size": 86283
+        },
+        {
+            "name": "Schweiz",
+            "url": "https://github.com/Wauinator/statemcr-place/raw/refs/heads/main/Schweiz2025fix.litematic",
+            "type": "litematic",
+            "x": -599,
+            "y": -63,
+            "z": 782,
+            "autoload": true,
+            "size": 86283
         }
     ],
     "version": 1
